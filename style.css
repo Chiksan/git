@@ -1,10 +1,16 @@
-*{
-    color: wheat;
-    background-image: url(https://cdn.dribbble.com/userupload/3818973/file/original-647907c3b7480966eccb7a63ea202f14.png?compress=1&resize=1200x720 );
+* {
+  color: wheat;
+  height: 30px;
+  background-image: url(https://cdn.dribbble.com/userupload/3818973/file/original-647907c3b7480966eccb7a63ea202f14.png?compress=1&resize=1200x720);
 }
 
-.input{
-    background: black;
-    color: white;
-    text-align: center;
+.input {
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+#avatar {
+  width: 400px;
+  height: 400px;
 }
